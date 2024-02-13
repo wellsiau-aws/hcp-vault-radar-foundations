@@ -6,6 +6,11 @@ import (
     "github.com/gin-gonic/gin"
 )
 
+// Auth params
+
+const username = "jalbertson"
+const password = "bestpasswordever"
+
 func main() {
 }
 
